@@ -1,0 +1,45 @@
+# Security & Intellectual Property
+
+## Public Repository Policy
+
+This repository is a public technical showcase of Quantech — an AI-powered B2B sales automation platform.
+
+To protect users, customers and proprietary technology, production-sensitive components are intentionally excluded from this repository.
+
+## Protected Components
+
+The following are never published:
+
+- API keys, tokens and credentials
+- Environment variables and `.env` files
+- Customer or business data
+- Authentication secrets
+- Database credentials
+- Internal AI prompts and configurations
+- Private CRM integrations
+- Production infrastructure configuration
+- Proprietary production source code
+
+## Public Components
+
+This repository may contain:
+
+- Product architecture
+- Technical documentation
+- Non-sensitive code samples
+- API/interface examples
+- Demo components
+- Integration specifications
+- Product workflow documentation
+
+## Data Protection
+
+Quantech is designed with security and data privacy in mind. Sensitive customer information must not be committed to public repositories or exposed through demo environments.
+
+## Responsible Disclosure
+
+If a potential security issue is discovered, please report it privately to the Quantech team rather than publishing sensitive technical details publicly.
+
+## Disclaimer
+
+The public repository represents selected components of the Quantech project and does not contain the complete production system.
